@@ -1,10 +1,16 @@
-p{
+p {
     text-align: center;
 }
-body{
+
+body {
     background: #cccccc
-    
 }
-.banner{
-width:100%;
+
+.banner {
+    width: 100%;
+}
+
+.beneficios {
+    background: #ffffff;
+    padding: 20px;
 }
